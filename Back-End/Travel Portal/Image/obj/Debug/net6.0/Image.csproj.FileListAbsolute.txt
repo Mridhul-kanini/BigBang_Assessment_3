@@ -1,0 +1,7 @@
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.csproj.AssemblyReference.cache
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.AssemblyInfoInputs.cache
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.AssemblyInfo.cs
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.csproj.CoreCompileInputs.cache
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.MvcApplicationPartsAssemblyInfo.cs
+D:\Company\Travel\Image\obj\Debug\net6.0\Image.MvcApplicationPartsAssemblyInfo.cache
